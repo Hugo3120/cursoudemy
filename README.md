@@ -17,7 +17,18 @@ Classe Principal![20230603_133825](https://github.com/Hugo3120/cursoudemy/assets
 
 Classe Entidade![20230603_133825](https://github.com/Hugo3120/cursoudemy/assets/88748776/b207433c-aa8f-42b9-8b81-38aea9a86dae)
 
+## Conclusão
 
+Concluir que o modelo de exceções permite que erros sejam tratados de forma
+consistente e flexível, usando boas práticas.
+
+Aprendi que suas vantagens são:
+* Lógica delegada.
+* Construtores podem ter tratamento de exceções.
+* Possibilidade de auxílio do compilador(Exception).
+* Código mais simples. Não há aninhamento de condicionais a qualquer
+momento que uma exceção for disparada, a execução é interrompida e cai no bloco catch correspondente.
+* É possível capturar inclusive outras exceções de sistema.
 
 
 Visite [Meu Linkedin](https://www.linkedin.com/in/hugo-leonardo-silva-66a604210/)
