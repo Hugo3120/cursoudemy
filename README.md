@@ -17,6 +17,9 @@ Classe Principal![20230603_133825](https://github.com/Hugo3120/cursoudemy/assets
 
 Classe Entidade![20230603_133825](https://github.com/Hugo3120/cursoudemy/assets/88748776/b207433c-aa8f-42b9-8b81-38aea9a86dae)
 
+Classe Domínio Exception![20230603_134900](https://github.com/Hugo3120/cursoudemy/assets/88748776/cf69b72f-8220-449f-bb8a-8a41bc23d9b2)
+
+
 ## Conclusão
 
 Concluir que o modelo de exceções permite que erros sejam tratados de forma
